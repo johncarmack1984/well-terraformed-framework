@@ -1,0 +1,6 @@
+# HachiCorp Configuration Language
+*.hcl eol=lf
+
+# Terraform
+*.tf      text eol=lf
+*.tfvars  text eol=lf
