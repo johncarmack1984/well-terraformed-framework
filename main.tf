@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "aws" {
-  region = "us-west-1" # Choose the region appropriate for you
+  region = var.aws_region
 }
 
 resource "aws_s3_bucket" "well_terraformed_framework" {
