@@ -1,6 +1,6 @@
 ### current
 
-![well-terraformed-framework current](current.svg?raw=true)
+![well-terraformed-framework current](.github/current.svg?raw=true)
 
 ### v0.0.1
 
